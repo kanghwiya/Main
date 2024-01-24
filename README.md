@@ -1,6 +1,7 @@
 # Main
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanghwiya)](https://github.com/anuraghazra/github-readme-stats)
 
 https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
 https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
