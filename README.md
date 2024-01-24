@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=Kanghwiya&fontSize=70" />
 
-<img src="https://img.shields.io/badge/로고이름-색상코드?style=flat&logo=로고이름&logoColor=white"/></a>&nbsp
+
+
 <br><br><br>
 ![a](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![k](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
