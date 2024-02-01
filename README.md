@@ -21,7 +21,7 @@
 <summary>
   배우고 싶은 것
 </summary>
-   Python, Kotli ...
+   Python, Kotli, typescript
 </details>
 <details>
 <summary>
