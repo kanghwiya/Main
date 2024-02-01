@@ -21,13 +21,13 @@
 <summary>
   배우고 싶은 것
 </summary>
-   Python, Kotlin, React ...
+   Python, Kotli ...
 </details>
 <details>
 <summary>
   공부하고 있는 것
 </summary>
-   정보처리기사 자격증
+    React, 정보처리기사 자격증
 </details>
 
 
